@@ -1,0 +1,6 @@
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\bin\Debug\Pitfall1.exe.config
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\obj\Debug\Pitfall1.csprojResolveAssemblyReference.cache
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\bin\Debug\Pitfall1.exe
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\bin\Debug\Pitfall1.pdb
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\obj\Debug\Pitfall1.exe
+D:\Work\avd com pro 2560\Pitfall1\Pitfall1\obj\Debug\Pitfall1.pdb
